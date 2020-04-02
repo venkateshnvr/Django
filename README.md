@@ -4,7 +4,7 @@ virtualenv python3
 
 Scripts/activate windows
 
-Src/Django python manage.py run server
+Django/Src/Django python manage.py run server
 
 Admin   : venkatesh
 
